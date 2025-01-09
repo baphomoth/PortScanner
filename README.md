@@ -13,4 +13,4 @@ A simple and efficient Port Scanner written in Python. This tool allows you to s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/baphomoth/PortScanner
+   git clone https://github.com/baphomoth/PortScanner.git
